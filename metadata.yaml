@@ -5,6 +5,9 @@ contributor:
     agent_name: Phul, Ruth Franc von
     gutenberg_agent_id: '54949'
     url: http://www.gutenberg.org/2009/agents/54949
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Buranelli, Prosper
@@ -27,6 +30,8 @@ creator:
     gutenberg_agent_id: '54686'
     url: http://www.gutenberg.org/2009/agents/54686
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68792#The-Cross-Word-Puzzle-Book-Third-Series
 gutenberg_issued: '2022-08-20'
 identifiers:
   gutenberg: '68792'
